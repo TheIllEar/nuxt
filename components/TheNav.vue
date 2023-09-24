@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <h1>Nuxt</h1>
+    <h1>{{$hello('Nuxt')}}</h1>
     <ul>
       <li>
         <NuxtLink to='/'>Home</NuxtLink>

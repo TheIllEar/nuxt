@@ -1,6 +1,5 @@
 <template>
   <div>
-
     <Head>
       <Title>Login</Title>
     </Head>
